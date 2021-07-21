@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FP-01- Intro/FP-01- Intro.iml" filepath="$PROJECT_DIR$/FP-01- Intro/FP-01- Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FP-01- Intro-Lambda/FP-01- Intro-Lambda.iml" filepath="$PROJECT_DIR$/FP-01- Intro-Lambda/FP-01- Intro-Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FP-02-BuiltIn-Functional-Interface/FP-02-BuiltIn-Functional-Interface.iml" filepath="$PROJECT_DIR$/FP-02-BuiltIn-Functional-Interface/FP-02-BuiltIn-Functional-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-functional-programming.iml" filepath="$PROJECT_DIR$/.idea/java-functional-programming.iml" />
     </modules>
   </component>
