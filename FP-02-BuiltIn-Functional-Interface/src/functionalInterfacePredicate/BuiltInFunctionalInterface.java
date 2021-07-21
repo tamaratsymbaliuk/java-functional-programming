@@ -1,4 +1,4 @@
-package functionalInterface;
+package functionalInterfacePredicate;
 
 import java.util.ArrayList;
 import java.util.List;
