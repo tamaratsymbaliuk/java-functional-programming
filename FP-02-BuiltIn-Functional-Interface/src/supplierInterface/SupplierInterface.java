@@ -1,5 +1,7 @@
 package supplierInterface;
 
+import java.util.Random;
+
 public class SupplierInterface {
 
     //Supplier has a single abstract method called GET and it accept no parameter and return type T
@@ -12,5 +14,7 @@ public class SupplierInterface {
     }
 
     Supplier<String > providedStr = ()-> new String("Hello Tamara!");
+    Supplier<Integer> randomNumber = () -> new Random().nextInt();
+    Supplier<Person> personSupplier = () -> new Person("Tamara", 27);
 
 }
