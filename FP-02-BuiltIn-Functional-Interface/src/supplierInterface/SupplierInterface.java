@@ -12,9 +12,10 @@ public class SupplierInterface {
         String get();
 
     }
+    //ThreadLocal.withInitial(Supplier<? extends S> supplier); - created a thread local variable
 
     Supplier<String > providedStr = ()-> new String("Hello Tamara!");
     Supplier<Integer> randomNumber = () -> new Random().nextInt();
-    Supplier<Person> personSupplier = () -> new Person("Tamara", 27);
+    //Supplier<Person> personSupplier = () -> new Person("Tamara", 27);
 
 }
