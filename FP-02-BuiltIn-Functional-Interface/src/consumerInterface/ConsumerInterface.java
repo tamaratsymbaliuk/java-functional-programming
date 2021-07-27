@@ -17,6 +17,7 @@ public class ConsumerInterface {
         names.add("Alex");
         names.add("Alla");
         names.add("Bred");
+        names.add("Mike");
 
         names.forEach(doublePrinter);
         //forEach method - performs the given action for each element of the Iterable
